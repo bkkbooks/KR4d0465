@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0465/WYG/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 牧庵集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 16:15:36.542513'
+  source:
+    repository: kanripo
+    path: KR4d0465/KR4d0465_036.txt
+hash: sha256:9b771409fad2d3d6860402f22480a1e0456d0f2183294bf1b68b5796ec12bec6
