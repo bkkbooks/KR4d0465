@@ -2048,6 +2048,7 @@ markers:
   - {type: punctuation, offset: 5926, content: (, id: KR4d0465_krp_022-bkkpn1}
   - {type: variant, offset: 5926, length: 6, content: 臣程嘉謨恭校, WYG: 牧庵集卷二十二}
   - {type: page-break, offset: 5926, content: '', id: KR4d0465_WYG_022-19b, image: WYG1201/WYG1201-0640d.png}
+  - {type: voice, offset: 5926, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5927, content: ), id: KR4d0465_krp_022-bkkpn2}
   - {type: 'kr:newline', offset: 5932, content: '
 
@@ -2057,4 +2058,4 @@ markers:
 
       ', id: KR4d0465_krp_022-bkkkrnewl325}
   back: []
-hash: sha256:fa0549b4fa6e944f20a98be5dfc705b0a76b073a6de3dd5d9eb257f9535a63be
+hash: sha256:d2ab93a61bd816f14a975c2162199388e94ab114c8204c6d4991e1d556bf83b0

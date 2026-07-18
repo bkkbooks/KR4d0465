@@ -1651,10 +1651,11 @@ markers:
   - {type: punctuation, offset: 4719, content: (, id: KR4d0465_krp_030-bkkpn1}
   - {type: variant, offset: 4719, length: 5, content: 臣謝墉恭校, WYG: 牧庵集卷三十}
   - {type: page-break, offset: 4719, content: '', id: KR4d0465_WYG_030-15b, image: WYG1201/WYG1201-0723b.png}
+  - {type: voice, offset: 4719, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4720, content: ), id: KR4d0465_krp_030-bkkpn2}
   - {type: indent, offset: 4721, content: 　, id: KR4d0465_krp_030-bkkind9}
   - {type: 'kr:newline', offset: 4724, content: '
 
       ', id: KR4d0465_krp_030-bkkkrnewl256}
   back: []
-hash: sha256:cdf8faea5de12bf0e323c80e217925b10efa444285b24343f2a4e7bfce157d10
+hash: sha256:82d55605a44b9893df97ce80696d5a779ffe30219d9be6cc0207551dba29d019

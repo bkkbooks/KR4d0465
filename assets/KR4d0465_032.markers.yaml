@@ -1510,6 +1510,7 @@ markers:
   - {type: variant, offset: 3880, length: 1, content: 尙, WYG: 尚}
   - {type: substitution, offset: 3880, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19556}}
   - {type: punctuation, offset: 3886, content: (, id: KR4d0465_krp_032-bkkpn1}
+  - {type: voice, offset: 3886, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3887, content: /, id: KR4d0465_krp_032-bkkpn2}
   - {type: punctuation, offset: 3888, content: ), id: KR4d0465_krp_032-bkkpn3}
   - {type: 'kr:newline', offset: 3888, content: '
@@ -2376,6 +2377,7 @@ markers:
   - {type: indent, offset: 5974, content: 　　, id: KR4d0465_krp_032-bkkind51}
   - {type: page-break, offset: 5974, content: '', id: KR4d0465_WYG_032-21b, image: WYG1201/WYG1201-0744d.png}
   - {type: punctuation, offset: 5979, content: (, id: KR4d0465_krp_032-bkkpn4}
+  - {type: voice, offset: 5979, length: 6, name: note, id: n2}
   - {type: variant, offset: 5980, length: 1, content: 注, WYG: 註}
   - {type: punctuation, offset: 5982, content: /, id: KR4d0465_krp_032-bkkpn5}
   - {type: punctuation, offset: 5985, content: ), id: KR4d0465_krp_032-bkkpn6}
@@ -2661,10 +2663,11 @@ markers:
   - {type: line-break, offset: 6602, content: '', id: KR4d0465_SBCK_032-21b01}
   - {type: punctuation, offset: 6602, content: (, id: KR4d0465_krp_032-bkkpn7}
   - {type: variant, offset: 6602, length: 6, content: 臣吳玉綸㳟校, WYG: 牧庵集卷三十二}
+  - {type: voice, offset: 6602, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 6603, content: ), id: KR4d0465_krp_032-bkkpn8}
   - {type: substitution, offset: 6606, original: 㳟, replacement: 恭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19540}}
   - {type: 'kr:newline', offset: 6608, content: '
 
       ', id: KR4d0465_krp_032-bkkkrnewl407}
   back: []
-hash: sha256:0f0131d595b11e760e3acc147a8ab2503e0476b74909335122c5b30987102bbf
+hash: sha256:43f3553bc4e17ae962de9d4634b87dcaaeafaed2d07a3a9c840e351036704cc0

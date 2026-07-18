@@ -1774,10 +1774,11 @@ markers:
   - {type: line-break, offset: 4968, content: '', id: KR4d0465_SBCK_002-15b04}
   - {type: punctuation, offset: 4968, content: (, id: KR4d0465_krp_002-bkkpn1}
   - {type: variant, offset: 4968, length: 6, content: 臣馬啟泰恭校, WYG: 可}
+  - {type: voice, offset: 4968, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4969, content: ), id: KR4d0465_krp_002-bkkpn2}
   - {type: substitution, offset: 4970, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: 'kr:newline', offset: 4974, content: '
 
       ', id: KR4d0465_krp_002-bkkkrnewl294}
   back: []
-hash: sha256:839a85d9743c626aea12449153b76d2b613b28ae3ae292eb917787a239aae52f
+hash: sha256:cd80c6244baba0bad3e735800231c444ecf6cee3fb0cb7d77fa1342f67a294fd

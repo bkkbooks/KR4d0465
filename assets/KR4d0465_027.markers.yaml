@@ -1489,9 +1489,10 @@ markers:
   - {type: line-break, offset: 4626, content: '', id: KR4d0465_SBCK_027-13b08}
   - {type: punctuation, offset: 4626, content: (, id: KR4d0465_krp_027-bkkpn1}
   - {type: variant, offset: 4626, length: 6, content: 臣汪滋畹恭校, WYG: 牧庵集卷二十七}
+  - {type: voice, offset: 4626, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4627, content: ), id: KR4d0465_krp_027-bkkpn2}
   - {type: 'kr:newline', offset: 4632, content: '
 
       ', id: KR4d0465_krp_027-bkkkrnewl258}
   back: []
-hash: sha256:5388bb774b478064c5d7a428c86d538088366750ed66705cfc7de79317027042
+hash: sha256:57423057a023fad384dc15c831f94fd32fda964d1931f744ddc5f76d2a289c8b

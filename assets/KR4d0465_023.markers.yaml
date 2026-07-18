@@ -2166,6 +2166,7 @@ markers:
   - {type: variant, offset: 6422, length: 1, content: 會, WYG: 㑹}
   - {type: punctuation, offset: 6431, content: (, id: KR4d0465_krp_023-bkkpn1}
   - {type: variant, offset: 6431, length: 1, content: 闕, WYG: 牧}
+  - {type: voice, offset: 6431, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 6432, content: ), id: KR4d0465_krp_023-bkkpn2}
   - {type: 'kr:newline', offset: 6432, content: '
 
@@ -2183,4 +2184,4 @@ markers:
 
       ', id: KR4d0465_krp_023-bkkkrnewl352}
   back: []
-hash: sha256:8efd6ceafbe794028da8f115548b6b131ae4428ec40aa77d9c3e3ec95087d35a
+hash: sha256:9aaef6a74d82f3e51dae9587230199458f6ecfd11bea759e861673ea68111609

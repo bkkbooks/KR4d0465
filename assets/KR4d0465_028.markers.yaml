@@ -2457,9 +2457,10 @@ markers:
   - {type: line-break, offset: 7376, content: '', id: KR4d0465_SBCK_028-21b01}
   - {type: punctuation, offset: 7376, content: (, id: KR4d0465_krp_028-bkkpn1}
   - {type: variant, offset: 7376, length: 5, content: 臣謝墉恭校, WYG: 牧庵集卷二十八}
+  - {type: voice, offset: 7376, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 7377, content: ), id: KR4d0465_krp_028-bkkpn2}
   - {type: 'kr:newline', offset: 7381, content: '
 
       ', id: KR4d0465_krp_028-bkkkrnewl405}
   back: []
-hash: sha256:d12910a2d068f68cabac398f33646f3bb44ad96281c5a1c3c57772f1424dd37f
+hash: sha256:a7eeb4d2ae94308cf68e4e7ad1887751059136dd95857e8970ed8bbfdc428c9f

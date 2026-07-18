@@ -2053,9 +2053,10 @@ markers:
   - {type: line-break, offset: 6116, content: '', id: KR4d0465_SBCK_021-17b03}
   - {type: punctuation, offset: 6116, content: (, id: KR4d0465_krp_021-bkkpn1}
   - {type: variant, offset: 6116, length: 6, content: 臣戴聯奎恭校, WYG: 牧庵集卷二十一}
+  - {type: voice, offset: 6116, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 6117, content: ), id: KR4d0465_krp_021-bkkpn2}
   - {type: 'kr:newline', offset: 6122, content: '
 
       ', id: KR4d0465_krp_021-bkkkrnewl333}
   back: []
-hash: sha256:c1e57c72fb814eaa1cb0bddb2ae106f2dd4c7ae82976624dc1af1518d42cac97
+hash: sha256:bcd94a316f72e2b375c85a33b1f5ece86e2eaa7861cc7ac572552a2ea591f93c

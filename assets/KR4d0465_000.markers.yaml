@@ -131,6 +131,7 @@ markers:
       ', id: KR4d0465_krp_000-bkkkrnewl26}
   - {type: line-break, offset: 466, content: '', id: KR4d0465_SBCK_000-2a06}
   - {type: punctuation, offset: 466, content: (, id: KR4d0465_krp_000-bkkpn1}
+  - {type: voice, offset: 466, length: 24, name: note, id: n1}
   - {type: punctuation, offset: 478, content: /, id: KR4d0465_krp_000-bkkpn2}
   - {type: substitution, offset: 486, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: punctuation, offset: 490, content: ), id: KR4d0465_krp_000-bkkpn3}
@@ -316,6 +317,7 @@ markers:
       ', id: KR4d0465_krp_000-bkkkrnewl2}
   - {type: line-break, offset: 2, content: '', id: KR4d0465_SBCK_000-4b03}
   - {type: punctuation, offset: 2, content: (, id: KR4d0465_krp_000-bkkpn1}
+  - {type: voice, offset: 2, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3, content: ), id: KR4d0465_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 21, content: '
 
@@ -324,6 +326,7 @@ markers:
   - {type: indent, offset: 21, content: 　　, id: KR4d0465_krp_000-bkkind2}
   - {type: punctuation, offset: 32, content: (, id: KR4d0465_krp_000-bkkpn3}
   - {type: variant, offset: 32, length: 0, content: '', WYG: 案元史稱樞為柳城}
+  - {type: voice, offset: 32, length: 25, name: note, id: n2}
   - {type: punctuation, offset: 40, content: /, id: KR4d0465_krp_000-bkkpn4}
   - {type: variant, offset: 40, length: 12, content: 案元史稱樞爲柳城其祖貫耳, WYG: ''}
   - {type: substitution, offset: 45, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -1046,4 +1049,4 @@ markers:
   - {type: variant, offset: 889, length: 0, content: '', WYG: 猶可見其各體文之原數凡五十卷竊惟公之文雄深雅健世罕有知焉譬如太羮𤣥酒食而無味然足以享天嗚呼草𤣥者之有望于後世之子雲也宜哉至順昭陽作噩之嵗季春之閠儒林郎江浙等處儒學提舉鄱陽呉善序欽定四庫全書}
   - {type: page-break, offset: 889, content: '', id: KR4d0465_WYG_001-1a, image: WYG1201/WYG1201-0405a.png}
   back: []
-hash: sha256:49956fd1772136b7f150ffda589183410724fe83d7a65f145b94b5db96bd3379
+hash: sha256:7df527fbe0f4ad556df474c465228f261a03e7ff0e1ae3b3da8088d894b92e0e

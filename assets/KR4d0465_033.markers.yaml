@@ -29,6 +29,7 @@ markers:
   - {type: indent, offset: 8, content: 　　, id: KR4d0465_krp_033-bkkind6}
   - {type: variant, offset: 13, length: 1, content: 宮, WYG: 宫}
   - {type: punctuation, offset: 14, content: (, id: KR4d0465_krp_033-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR4d0465_krp_033-bkkpn2}
   - {type: 'kr:newline', offset: 16, content: '
 
@@ -1342,10 +1343,11 @@ markers:
   - {type: line-break, offset: 3382, content: '', id: KR4d0465_SBCK_033-11b01}
   - {type: punctuation, offset: 3382, content: (, id: KR4d0465_krp_033-bkkpn3}
   - {type: variant, offset: 3382, length: 6, content: 臣吳玉綸㳟校, WYG: 牧庵集卷三十三}
+  - {type: voice, offset: 3382, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3383, content: ), id: KR4d0465_krp_033-bkkpn4}
   - {type: substitution, offset: 3386, original: 㳟, replacement: 恭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19540}}
   - {type: 'kr:newline', offset: 3388, content: '
 
       ', id: KR4d0465_krp_033-bkkkrnewl209}
   back: []
-hash: sha256:fa2ebb4721d6115a82eb176a3c07400238a90c35115c35984a057d48de5524e5
+hash: sha256:54ce2d7423c9a2ec25c265c6f474b2bf9ef66f606280b83b989be11dc843eebd

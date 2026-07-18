@@ -2082,10 +2082,11 @@ markers:
   - {type: punctuation, offset: 6230, content: (, id: KR4d0465_krp_005-bkkpn1}
   - {type: variant, offset: 6230, length: 6, content: 臣馬啟泰恭校, WYG: 牧庵集卷五}
   - {type: page-break, offset: 6230, content: '', id: KR4d0465_WYG_005-20b, image: WYG1201/WYG1201-0460d.png}
+  - {type: voice, offset: 6230, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 6231, content: ), id: KR4d0465_krp_005-bkkpn2}
   - {type: substitution, offset: 6232, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: 'kr:newline', offset: 6236, content: '
 
       ', id: KR4d0465_krp_005-bkkkrnewl339}
   back: []
-hash: sha256:c29ceba2e47ae719493535b555bb2f393865d553ce23da2f9bd5d04b4ccbe9be
+hash: sha256:1dfd71861561ebdb86e85f5c4f4e0abb5f3123cb00656f07185ac5c7934273b1

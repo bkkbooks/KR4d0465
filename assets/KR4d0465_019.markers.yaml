@@ -2224,6 +2224,7 @@ markers:
   - {type: punctuation, offset: 6603, content: (, id: KR4d0465_krp_019-bkkpn1}
   - {type: variant, offset: 6603, length: 1, content: 臣, WYG: 牧}
   - {type: page-break, offset: 6603, content: '', id: KR4d0465_WYG_019-21b, image: WYG1201/WYG1201-0610b.png}
+  - {type: voice, offset: 6603, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 6604, content: ), id: KR4d0465_krp_019-bkkpn2}
   - {type: variant, offset: 6604, length: 1, content: 戴, WYG: 庵}
   - {type: variant, offset: 6605, length: 1, content: 聯, WYG: 集}
@@ -2234,4 +2235,4 @@ markers:
 
       ', id: KR4d0465_krp_019-bkkkrnewl358}
   back: []
-hash: sha256:83fd869755661dde49a385042ef90388429f013aff1d379a7d7cf3f6b48ebf8b
+hash: sha256:73fb1a6e3eaf816c1d1bbe7bd6a8edb76678c5be0d08813dc5a846001e03413b

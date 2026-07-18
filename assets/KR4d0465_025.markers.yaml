@@ -2637,9 +2637,10 @@ markers:
   - {type: punctuation, offset: 7549, content: (, id: KR4d0465_krp_025-bkkpn1}
   - {type: variant, offset: 7549, length: 6, content: 臣汪滋畹恭校, WYG: 牧庵集卷二十五}
   - {type: page-break, offset: 7549, content: '', id: KR4d0465_WYG_025-24b, image: WYG1201/WYG1201-0674b.png}
+  - {type: voice, offset: 7549, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 7550, content: ), id: KR4d0465_krp_025-bkkpn2}
   - {type: 'kr:newline', offset: 7555, content: '
 
       ', id: KR4d0465_krp_025-bkkkrnewl414}
   back: []
-hash: sha256:48d344503830ee81e678f0bcbfa16e98ba2967d7934353eee77ae1167ad5caae
+hash: sha256:84be1ed08e2a6aeba3c1cb0330e205d88427e032c8666687da72f8e14a646538

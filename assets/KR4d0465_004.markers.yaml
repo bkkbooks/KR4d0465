@@ -2286,10 +2286,11 @@ markers:
   - {type: punctuation, offset: 6478, content: (, id: KR4d0465_krp_004-bkkpn1}
   - {type: variant, offset: 6478, length: 6, content: 臣馬啟泰恭校, WYG: 牧庵集卷四}
   - {type: page-break, offset: 6478, content: '', id: KR4d0465_WYG_004-21b, image: WYG1201/WYG1201-0450d.png}
+  - {type: voice, offset: 6478, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 6479, content: ), id: KR4d0465_krp_004-bkkpn2}
   - {type: substitution, offset: 6480, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: 'kr:newline', offset: 6484, content: '
 
       ', id: KR4d0465_krp_004-bkkkrnewl364}
   back: []
-hash: sha256:af2d3ddf1a18e3b530242497c8b2f6ca301329fe3634b99a2eea1ba49010ec63
+hash: sha256:54e4f0cee5e1a6d57448a068411a6a8d11967c8f07e549cb1f05774615b97832

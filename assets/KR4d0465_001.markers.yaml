@@ -461,6 +461,7 @@ markers:
   - {type: page-break, offset: 1189, content: '', id: KR4d0465_WYG_001-5a, image: WYG1201/WYG1201-0407a.png}
   - {type: punctuation, offset: 1193, content: (, id: KR4d0465_krp_001-bkkpn1}
   - {type: variant, offset: 1193, length: 0, content: '', WYG: 原注至大二}
+  - {type: voice, offset: 1193, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 1196, content: /, id: KR4d0465_krp_001-bkkpn2}
   - {type: variant, offset: 1196, length: 3, content: 至大二, WYG: ''}
   - {type: punctuation, offset: 1199, content: ), id: KR4d0465_krp_001-bkkpn3}
@@ -603,6 +604,7 @@ markers:
   - {type: substitution, offset: 1547, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: punctuation, offset: 1550, content: (, id: KR4d0465_krp_001-bkkpn4}
   - {type: variant, offset: 1550, length: 0, content: '', WYG: 原注至大四}
+  - {type: voice, offset: 1550, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1553, content: /, id: KR4d0465_krp_001-bkkpn5}
   - {type: variant, offset: 1553, length: 3, content: 至大四, WYG: ''}
   - {type: punctuation, offset: 1556, content: ), id: KR4d0465_krp_001-bkkpn6}
@@ -2681,6 +2683,7 @@ markers:
   - {type: line-break, offset: 7159, content: '', id: KR4d0465_SBCK_001-21b09}
   - {type: punctuation, offset: 7159, content: (, id: KR4d0465_krp_001-bkkpn7}
   - {type: variant, offset: 7159, length: 1, content: 臣, WYG: 可}
+  - {type: voice, offset: 7159, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 7160, content: ), id: KR4d0465_krp_001-bkkpn8}
   - {type: variant, offset: 7160, length: 1, content: 馬, WYG: 牧}
   - {type: variant, offset: 7161, length: 1, content: 啟, WYG: 庵}
@@ -2692,4 +2695,4 @@ markers:
 
       ', id: KR4d0465_krp_001-bkkkrnewl419}
   back: []
-hash: sha256:171c3c9a93ab37eada6c19bda0a175121c261448bc655809c38186812a65ca77
+hash: sha256:c29fdc47f40fbcb842d5cc8aadf983a047ad6e7bcfc8f24a6ecd975c99b39c0f

@@ -1761,6 +1761,7 @@ markers:
   - {type: variant, offset: 725, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 725, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 737, content: (, id: KR4d0465_krp_037-bkkpn1}
+  - {type: voice, offset: 737, length: 32, name: note, id: n1}
   - {type: punctuation, offset: 743, content: /, id: KR4d0465_krp_037-bkkpn2}
   - {type: variant, offset: 748, length: 1, content: 每, WYG: 毎}
   - {type: punctuation, offset: 749, content: ), id: KR4d0465_krp_037-bkkpn3}
@@ -4118,6 +4119,7 @@ markers:
   - {type: line-break, offset: 6177, content: '', id: KR4d0465_SBCK_037-21b02}
   - {type: punctuation, offset: 6177, content: (, id: KR4d0465_krp_037-bkkpn7}
   - {type: variant, offset: 6177, length: 6, content: 臣徐立綱恭校, WYG: 牧庵集附錄}
+  - {type: voice, offset: 6177, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 6178, content: ), id: KR4d0465_krp_037-bkkpn8}
   - {type: 'kr:newline', offset: 6183, content: '
 
@@ -4127,4 +4129,4 @@ markers:
 
       ', id: KR4d0465_krp_037-bkkkrnewl413}
   back: []
-hash: sha256:dcdba618db068353e1fca5fc9a1f993a9e979408acf8bbfbf60e8c7490b09d67
+hash: sha256:cca718d5ff2912f3faf3a8ac5e312c2679c404a44ef57ae6ed5a1677f0674931

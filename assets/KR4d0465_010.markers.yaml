@@ -1845,10 +1845,11 @@ markers:
   - {type: line-break, offset: 5352, content: '', id: KR4d0465_SBCK_010-15b03}
   - {type: punctuation, offset: 5352, content: (, id: KR4d0465_krp_010-bkkpn1}
   - {type: variant, offset: 5352, length: 6, content: 臣蔡共武恭校, WYG: ''}
+  - {type: voice, offset: 5352, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5353, content: ), id: KR4d0465_krp_010-bkkpn2}
   - {type: 'kr:newline', offset: 5358, content: '
 
       ', id: KR4d0465_krp_010-bkkkrnewl293}
   - {type: page-break, offset: 5358, content: '', id: KR4d0465_WYG_010-17b, image: WYG1201/WYG1201-0504b.png}
   back: []
-hash: sha256:26950c5dc8c14d2640d34f1b8957dfe0e9fc7d8c3f60acb333cb99a187fe3094
+hash: sha256:c57f26af31c7c32e90eb110e6753a4dfe0fb7f7e9639aa38a73eb4872206205c
